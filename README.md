@@ -1,1 +1,1 @@
-# snapchat-app-filters
+# Snapchat's Facial Filters and Masks
